@@ -1,0 +1,2 @@
+This is a test file. 
+John Smith needs to be replaced.
